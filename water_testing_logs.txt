@@ -1,0 +1,46 @@
+
+A test is already in progress. Skipping schedule check.2024-11-18 12:38:08 - Ran ammonia with result: 0
+
+A test is already in progress. Skipping schedule check.
+A test is already in progress. Skipping schedule check.
+A test is already in progress. Skipping schedule check.
+A test is already in progress. Skipping schedule check.
+A test is already in progress. Skipping schedule check.
+A test is already in progress. Skipping schedule check.
+A test is already in progress. Skipping schedule check.
+A test is already in progress. Skipping schedule check.
+A test is already in progress. Skipping schedule check.
+A test is already in progress. Skipping schedule check.
+A test is already in progress. Skipping schedule check.
+A test is already in progress. Skipping schedule check.
+A test is already in progress. Skipping schedule check.
+A test is already in progress. Skipping schedule check.
+A test is already in progress. Skipping schedule check.
+A test is already in progress. Skipping schedule check.
+A test is already in progress. Skipping schedule check.
+A test is already in progress. Skipping schedule check.
+A test is already in progress. Skipping schedule check.
+A test is already in progress. Skipping schedule check.
+A test is already in progress. Skipping schedule check.PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /var/www/html/run_sequence.php on line 53
+PHP Warning:  file_get_contents(http://esp32water.local/control_servo): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /var/www/html/run_sequence.php on line 53
+PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /var/www/html/run_sequence.php on line 31
+PHP Warning:  file_get_contents(http://esp32water.local/control_motor): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /var/www/html/run_sequence.php on line 31
+PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /var/www/html/run_sequence.php on line 31
+PHP Warning:  file_get_contents(http://esp32water.local/control_motor): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /var/www/html/run_sequence.php on line 31
+PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /var/www/html/run_sequence.php on line 31
+PHP Warning:  file_get_contents(http://esp32water.local/control_motor): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /var/www/html/run_sequence.php on line 31
+PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /var/www/html/run_sequence.php on line 31
+PHP Warning:  file_get_contents(http://esp32water.local/control_motor): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /var/www/html/run_sequence.php on line 31
+PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /var/www/html/run_sequence.php on line 31
+PHP Warning:  file_get_contents(http://esp32water.local/control_motor): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /var/www/html/run_sequence.php on line 31
+
+A test is already in progress. Skipping schedule check.PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /var/www/html/run_sequence.php on line 31
+PHP Warning:  file_get_contents(http://esp32water.local/control_motor): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /var/www/html/run_sequence.php on line 31
+
+A test is already in progress. Skipping schedule check.PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /var/www/html/run_sequence.php on line 75
+PHP Warning:  file_get_contents(http://esp32water.local/capture_image): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /var/www/html/run_sequence.php on line 75
+PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /var/www/html/run_sequence.php on line 53
+PHP Warning:  file_get_contents(http://esp32water.local/control_servo): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /var/www/html/run_sequence.php on line 53
+2024-11-18 19:01:34 - Ran ammonia with result: 0
+
+A test is already in progress. Skipping schedule check.

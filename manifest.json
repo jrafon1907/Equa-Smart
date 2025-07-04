@@ -1,0 +1,63 @@
+{
+"name": "eQuaSmart",
+"short_name": "eQuaSmart",
+"start_url": "/login_page.php",
+"display": "standalone",
+"description": "eQuaSmart is also a mobile application that allows you to manage your aquaponics operation from your phone.",
+"lang": "en",
+"dir": "auto",
+"theme_color": "#000000",
+"background_color": "#000000",
+"orientation": "any",
+"icons": [
+    {
+        "src": "images/pwalogo512.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "maskable"
+    },
+    {
+        "src": "images/pwalogo512.png",
+        "sizes": "192x192",
+        "type": "image/png",
+        "purpose": "any"
+    }
+],
+"screenshots": [
+    {
+        "src": "images/pwascreenshots.png",
+        "sizes": "1080x720",
+        "type": "image/png",
+        "description": "eQuaSmart is a mobile application that allows you to manage your aquaponics operation from your phone."
+    }
+],
+"related_applications": [
+    {
+        "platform":"windows",
+        "url": " The URL to your app in that app store"
+    }
+],
+"prefer_related_applications": false,
+"shortcuts": [
+  {
+    "name": "eQuaSmart",
+    "url": "/login_page.php",
+    "icons": [
+      {
+        "src": "images/pwalogo512.png",
+        "sizes": "96x96",
+        "type": "image/png"
+      }
+    ]
+  }
+]
+
+
+// "shortcuts": [
+//     {
+//         "name":"The name you would like to be displayed for your shortcut",
+//         "url":"The url you would like to open when the user chooses this shortcut. This must be a URL local to your PWA. For example: If my start_url is /, this URL must be something like /shortcut",
+//         "description":"A description of the functionality of this shortcut"
+//     }
+// ]
+}
